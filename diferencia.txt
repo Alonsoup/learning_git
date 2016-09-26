@@ -1,0 +1,6 @@
+Este es un archivo que sólo se debe encontrar en el nuevo branch.
+Me pregunto cómo agregarlo al repositorio. Seguro es con git add diferencia.txt
+Veremos.
+Aquí hay un poco más de texto.
+En realidad, tener más texto no es una ventaja, así que voy a dejar de escribir.
+
